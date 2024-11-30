@@ -9,7 +9,7 @@ echo "Repo init success"
 echo "=================="
 
 # Clone local_manifests repository
-git clone -b gen https://github.com/miteshx07/local_manifest .repo/local_manifests
+git clone -b gen https://github.com/miteshx07/local_manifests .repo/local_manifests
 echo "============================"
 echo "Local manifest clone success"
 echo "============================"
