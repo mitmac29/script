@@ -3,13 +3,13 @@
 rm -rf .repo/local_manifests
 
 # Rom source repo
-repo init --depth=1 -u https://github.com/GenesisOS/manifest.git -b verve --git-lfs
+repo init --depth=1 -u https://github.com/mitmac29/manifest.git -b verve --git-lfs
 echo "=================="
 echo "Repo init success"
 echo "=================="
 
 # Clone local_manifests repository
-git clone -b gen https://github.com/miteshx07/local_manifest.git .repo/local_manifests
+git clone -b gen https://github.com/miteshx07/local_manifest .repo/local_manifests
 echo "============================"
 echo "Local manifest clone success"
 echo "============================"
