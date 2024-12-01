@@ -31,4 +31,4 @@ breakfast lavender
 echo "============="
 
 # Build rom
-mka genesis
+# mka genesis
