@@ -3,7 +3,7 @@
 rm -rf .repo/local_manifests
 
 # Rom source repo
-repo init --depth=1 -u https://github.com/GenesisOS/manifest.git -b verve --git-lfs
+repo init --depth=1 -u https://github.com/mitmac29/manifest.git -b verve --git-lfs
 echo "=================="
 echo "Repo init success"
 echo "=================="
