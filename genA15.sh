@@ -24,7 +24,7 @@ echo "====== Envsetup Done ======="
 
 # Export
 export TZ=Asia/Mumbai
-make installclean
+#make installclean
 
 # Lunch
 breakfast lavender
