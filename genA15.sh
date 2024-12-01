@@ -9,7 +9,7 @@ echo "Repo init success"
 echo "=================="
 
 # Clone local_manifests repository
-git clone -b genesis https://github.com/mitmac29/local_manifests .repo/local_manifests
+git clone -b main https://github.com/mitmac29/local_mani .repo/local_manifests
 echo "============================"
 echo "Local manifest clone success"
 echo "============================"
