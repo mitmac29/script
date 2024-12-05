@@ -33,7 +33,7 @@ breakfast lavender
 echo "============="
 
 # Install clean
-#make installclean 
+make installclean 
 
 # Build rom
-#brunch lavender
+brunch lavender
