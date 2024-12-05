@@ -36,4 +36,4 @@ breakfast lavender
 # make installclean 
 
 # Build rom
-#brunch lavender
+brunch lavender
