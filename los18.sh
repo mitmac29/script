@@ -29,7 +29,7 @@ export WITH_GMS_MINIMAL=true
 echo "======== Export Done ======="
 
 # Lunch
-breakfast lavender
+lunch lineage_lavender-userdebug
 echo "============="
 
 # Install clean
