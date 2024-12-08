@@ -22,6 +22,9 @@ echo "Local manifest clone success"
 . build/envsetup.sh
 echo "====== Envsetup Done ======="
 
+# export
+TARGET_BUILD_VARIANT=true 
+
 # Lunch
 breakfast lavender
 echo "============="
