@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#rm -rf .repo/local_manifests
+rm -rf .repo/local_manifests
 
 # Rom source repo
 repo init -u https://github.com/2by2-Project/android.git -b 15 --git-lfs
@@ -22,18 +22,12 @@ echo "Local manifest clone success"
 . build/envsetup.sh
 echo "====== Envsetup Done ======="
 
-export DEVICE_MAINTAINER=MiTeSH
-export LINEAGE_MAINTAINER=MiTeSH
-export TZ=Asia/Dhaka
-export WITH_GMS_MINIMAL=true
-echo "======== Export Done ======="
-
 # Lunch
-lunch lineage_lavender-userdebug
+breakfast lavender
 echo "============="
 
 # Install clean
 # make installclean 
 
 # Build rom
-m bacon
+#m bacon
