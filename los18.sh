@@ -29,11 +29,11 @@ export WITH_GMS_MINIMAL=true
 echo "======== Export Done ======="
 
 # Lunch
-lunch lineage_lavender-userdebug
+breakfast lavender
 echo "============="
 
 # Install clean
 # make installclean 
 
 # Build rom
-m bacon
+#m bacon
