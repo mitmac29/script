@@ -22,11 +22,11 @@
 . build/envsetup.sh
 echo "====== Envsetup Done ======="
 
-export DEVICE_MAINTAINER=MiTeSH
-export LINEAGE_MAINTAINER=MiTeSH
-export TZ=Asia/Dhaka
-export WITH_GMS_MINIMAL=true
-echo "======== Export Done ======="
+#export DEVICE_MAINTAINER=MiTeSH
+#export LINEAGE_MAINTAINER=MiTeSH
+#export TZ=Asia/Dhaka
+#export WITH_GMS_MINIMAL=true
+#echo "======== Export Done ======="
 
 # Lunch
 breakfast lavender
