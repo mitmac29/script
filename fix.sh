@@ -36,6 +36,4 @@ sudo rm -rf e2fsprogs-1.46.5/
 
 echo -e "\n\033[92msetup e2fsprogs & mke2fs complete\033[0m\n"
 
-sudo apt install lolcat -y
-
 echo -e "\n==========crave is wonderfully amazing==========\n" | lolcat
