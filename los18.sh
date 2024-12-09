@@ -30,7 +30,6 @@ echo "====== Envsetup Done ======="
 
 # Lunch
 breakfast lavender
-echo "============="
 
 # Install clean
 # make installclean 
