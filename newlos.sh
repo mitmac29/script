@@ -14,5 +14,4 @@
 # Set up build environment
 . build/envsetup.sh
 # Lunch
-brunch bacon
-#m bacon
+m bacon
