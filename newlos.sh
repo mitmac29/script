@@ -13,6 +13,6 @@ git clone -b newlos https://github.com/mitmac29/local_manifests .repo/local_mani
 
 # Set up build environment
 . build/envsetup.sh
-breakfast lavender
+lunch lineage_lavender-userdebug
 # Lunch
 m bacon
