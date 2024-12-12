@@ -15,4 +15,4 @@ git clone -b pixel https://github.com/mitmac29/local_manifests .repo/local_manif
 . build/envsetup.sh
 lunch pixelstar_lavender-userdebug
 # Lunch
-mka bacon -jXT
+mka bacon
