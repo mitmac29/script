@@ -15,4 +15,4 @@
 . build/envsetup.sh
 lunch pixelstar_lavender-userdebug
 # Lunch
-mka bacon
+m bacon
