@@ -6,7 +6,7 @@ rm -rf .repo/local_manifests
 repo init -u https://github.com/mitmac29/android_.git -b android-15 --git-lfs
 
 # Clone local_manifests repository
-git clone -b omni https://github.com/mitmac29/local_manifests .repo/local_manifests
+git clone -b o https://github.com/miteshx07/local_manifests .repo/local_manifests
 
 # Sync the repositories
 /opt/crave/resync.sh
