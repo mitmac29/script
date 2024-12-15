@@ -12,5 +12,5 @@ git clone -b omni https://github.com/mitmac29/local_manifests .repo/local_manife
 /opt/crave/resync.sh
 
 # Set up build environment
-. build/envsetup.sh
-brunch lavender
+#. build/envsetup.sh
+#brunch lavender
