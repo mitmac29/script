@@ -3,7 +3,7 @@
 rm -rf .repo/local_manifests
 
 # Rom source repo
-repo init -u https://github.com/omnirom/android.git -b android-15 --git-lfs
+repo init -u https://github.com/mitmac29/android_.git -b android-15 --git-lfs
 
 # Clone local_manifests repository
 git clone -b omni https://github.com/mitmac29/local_manifests .repo/local_manifests
