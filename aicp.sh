@@ -1,3 +1,5 @@
+make clobber
 . build/envsetup.sh
-make clobber 
-brunch lavender
+lunch aicp_lavender-ap2a-user
+m bacon
+
