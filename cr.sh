@@ -2,4 +2,4 @@
 
 . build/envsetup.sh
 
-brunch lavender
+brunch lavender user
