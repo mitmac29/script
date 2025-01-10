@@ -2,6 +2,6 @@
 
 . build/envsetup.sh
 
-lunch ev_lavender-ap4a-userdebug
+mistify lavender user
 
-m bacon
+mist b
