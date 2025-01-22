@@ -2,4 +2,6 @@
 
 . build/envsetup.sh
 
-brunch lavender user
+mistify lavender user
+
+mist b
