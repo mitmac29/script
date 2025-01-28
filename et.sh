@@ -4,4 +4,4 @@
 
 lunch ethereal_lavender-ap2a-userdebug
 
-make b -j$(nproc --all)
+make b
