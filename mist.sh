@@ -4,4 +4,4 @@
 
 mistify lavender user
 
-mist b
+mist sb
