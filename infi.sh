@@ -1,5 +1,7 @@
 #!/bin/bash
 
-. build/envsetup.sh
+source build/envsetup.sh
 
-brunch lavender
+lunch yaap_lavender-user
+
+m yaap
