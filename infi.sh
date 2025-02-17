@@ -1,7 +1,7 @@
 #!/bin/bash
 
-source build/envsetup.sh
+. build/envsetup.sh
 
-lunch yaap_lavender-user
+lunch infinity_lavender-userdebug
 
-m yaap
+mka bacon
