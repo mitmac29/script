@@ -4,4 +4,4 @@
 
 axion lavender userdebug va
 
-ar -bx
+ax -br
