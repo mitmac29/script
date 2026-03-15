@@ -12,6 +12,10 @@ echo "=================="
 /opt/crave/resync.sh
 echo "============================"
 
+cd vendor/voltage-priv/keys
+./keys.sh
+cd ../../..
+
 # Clone local_manifests repository
 git clone -b vos https://github.com/mitmac29/android_device_xiaomi_lavender16 device/xiaomi/lavender
 echo "============================"
