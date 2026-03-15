@@ -4,18 +4,18 @@ rm -rf .repo/local_manifests
 
 # Rom source repo
 repo init -u https://github.com/VoltageOS/manifest.git -b 16.2 --git-lfs
-#echo "=================="
+echo "=================="
 echo "Repo init success"
-#echo "=================="
-
-# Clone local_manifests repository
-git clone -b vos https://github.com/mitmac29/android_device_xiaomi_lavender16 device/xiaomi/lavender
-#echo "============================"
-#echo "Local manifest clone success"
-#echo "============================"
+echo "=================="
 
 # Sync the repositories
 /opt/crave/resync.sh
+echo "============================"
+
+# Clone local_manifests repository
+git clone -b vos https://github.com/mitmac29/android_device_xiaomi_lavender16 device/xiaomi/lavender
+echo "============================"
+echo "device tree clone success"
 echo "============================"
 
 # Set up build environment
