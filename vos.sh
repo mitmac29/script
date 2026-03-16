@@ -21,7 +21,7 @@
 #echo "============================"
 
 # Set up build environment
-. build/envsetup.sh
+. build/env*
 #echo "====== Envsetup Done ======="
 
 # Lunch
